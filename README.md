@@ -1,3 +1,3 @@
 WELL WELL WELL SOMEONE READ THIS?
 
-Just a student doing some stuf hope you enjoy it
+What you are going to se here is a little program that downloads videos from youtube, and a document of what it does each line, perfect for begginers like me 🤓
